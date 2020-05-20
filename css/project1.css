@@ -1,0 +1,178 @@
+body{
+	margin: 0px;
+	margin-top: 20px;
+	color: #333333;
+	font-family: roboto;
+}
+.navBar{
+	margin: auto;
+	width: 60%;
+
+	height: 135px;
+
+	border: none;
+	border-radius: 15px;
+
+	box-shadow:
+  0 -18.7px 56.5px rgba(0, 0, 0, 0.04),
+  0 5.1px 60.6px rgba(0, 0, 0, 0.028),
+  0 50px 30px rgba(0, 0, 0, 0.02)
+;
+
+
+}
+img{
+	float: left;
+	height: 125px;
+	margin-top: 5px;
+	margin-left: 5px;
+
+}
+.content{
+	width: 500px;
+	height: 100%;
+	display: inline-block;
+}
+h5{
+	margin: 0px;
+	margin-top: 15px;
+}
+button{
+	float: right;
+	margin-right: 50px;
+	margin-top: 100px;
+
+	background-color: #272343;
+	border: none;
+	width: 100px;
+	height: 25px;
+	border-radius: 15px;
+	color: white;
+
+	box-shadow:
+  0 2.1px 18.4px rgba(0, 0, 0, 0.014),
+  0 3.3px 29.9px rgba(0, 0, 0, 0.022),
+  0 4.5px 37px rgba(0, 0, 0, 0.027),
+  0 7.8px 42.3px rgba(0, 0, 0, 0.032),
+  0 21.8px 49.9px rgba(0, 0, 0, 0.042),
+  0 100px 80px rgba(0, 0, 0, 0.07)
+;
+
+}
+button:hover{
+	background-color: #ffffff;
+	border: 1px solid;
+	color: #333333;
+	transition: 0.2s;
+
+	box-shadow:
+  0 2.1px 18.4px rgba(0, 0, 0, 0.014),
+  0 3.3px 29.9px rgba(0, 0, 0, 0.022),
+  0 4.5px 37px rgba(0, 0, 0, 0.027),
+  0 7.8px 42.3px rgba(0, 0, 0, 0.032),
+  0 21.8px 49.9px rgba(0, 0, 0, 0.042),
+  0 100px 80px rgba(0, 0, 0, 0.07)
+;
+
+}
+ul{
+	margin: 0px;
+	padding: 10px;
+}
+ul li{
+	list-style: none;
+	margin: 0px;
+}
+.Container{
+	margin: auto;
+	width: 60%;
+	text-align: center;
+	height: 32em;
+
+	box-shadow:
+  0 -18.7px 56.5px rgba(0, 0, 0, 0.04),
+  0 5.1px 60.6px rgba(0, 0, 0, 0.028),
+  0 50px 30px rgba(0, 0, 0, 0.02)
+;
+}
+.header1{
+	padding-top: 25px;
+}
+
+hr{
+	margin-top: 10px;
+	border: 6px none;
+	border-top-style: dotted;
+	width: 6%;
+	color: grey;
+	opacity: 50%;
+}
+p{
+	margin: auto;
+	width: 60%;
+	text-align: justify;
+}
+.education{
+	display: flex;
+	width: 60%;
+	margin: auto;
+	background-color: #272343;
+	color: #ffffff;
+}
+.ContentEdu{
+	margin: 0px;
+	padding: 10px;
+	border: 1px solid;
+	width: 100%;
+	font-style: normal;
+}
+
+.ContentEdu:hover{
+	background-color: #ffffff;
+	color: #333333;
+	transition: 0.5s;
+}
+
+.Hobbies{
+	display: flex;
+	width: 60%;
+	margin: auto;
+	background-color: #272343;
+	color: #ffffff;
+}
+.ContentHby{
+	margin: 0px;
+	padding: 10px;
+	border: 1px solid;
+	width: 100%;
+	font-style: normal;
+}
+.ContentHby:hover{
+	background-color: #ffffff;
+	color: #333333;
+	transition: 0.5s;
+}
+
+.footer{
+	margin: auto;
+	margin-top: 15px;
+	width: 60%;
+	height: 2em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-shadow:
+  0 2.1px 18.4px rgba(0, 0, 0, 0.014),
+  0 3.3px 29.9px rgba(0, 0, 0, 0.022),
+  0 4.5px 37px rgba(0, 0, 0, 0.027),
+  0 7.8px 42.3px rgba(0, 0, 0, 0.032),
+  0 21.8px 49.9px rgba(0, 0, 0, 0.042),
+  0 100px 80px rgba(0, 0, 0, 0.07)
+
+;
+
+}
+.contentFoot{
+	margin-top: 15px;
+	height: 100%;
+}
